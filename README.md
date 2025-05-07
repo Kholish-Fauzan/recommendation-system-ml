@@ -36,7 +36,7 @@ Proyek difokuskan pada sistem rekomendasi lagu berbasis content-based filtering 
 2. Fitur tambahan: Potensi penggunaan fitur audio seperti danceability, energy, valence, atau tempo untuk meningkatkan kualitas rekomendasi (di tahap pengembangan lanjutan).
 3. Mengukur hasil kemiripan fitur menggunakan Cosine Similarity.
     ![Cosine Similarity](images/cosine%20similarity.jpeg)
-  Cosine similarity mengukur kesamaan antara dua vektor dan menentukan apakah kedua vektor tersebut menunjuk ke arah yang sama. Ia menghitung sudut cosinus antara dua vektor. Semakin kecil sudut cosinus, semakin besar nilai cosine similarity. Metrik ini juga sering digunakan untuk mengukur kesamaan dokumen dalam analisis teks, sehingga cocok digunakan pada project dalam menilai fitur pada sistem rekomendasi.
+  <br>Cosine similarity mengukur kesamaan antara dua vektor dan menentukan apakah kedua vektor tersebut menunjuk ke arah yang sama. Ia menghitung sudut cosinus antara dua vektor. Semakin kecil sudut cosinus, semakin besar nilai cosine similarity. Metrik ini juga sering digunakan untuk mengukur kesamaan dokumen dalam analisis teks, sehingga cocok digunakan pada project dalam menilai fitur pada sistem rekomendasi.
 4. Melakukan evaluasi menggunakan Precision@K untuk menilai kualitas rekomendasi berdasarkan Ground Truth.
 
 ---
